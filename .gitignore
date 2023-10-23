@@ -5,3 +5,7 @@
 .DS_Store
 *.out
 *.gif
+*.pth
+*.npy
+logs_demo/
+logs_chain_demo/
